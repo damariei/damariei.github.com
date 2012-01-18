@@ -1,41 +1,6 @@
 @charset "utf-8";
-/* CSS Document */
-
-/*  Reset for some default browser CSS - General */
-
-body, div, h1, h2, h3, p, ul, ol, li, img, header, section, aside, footer, button {
-	margin: 0; padding: 0; border: 0; list-style: none;
-}
-
-a {
-	text-decoration: none;
-	color: #961b25;
-}
-
-a:hover {
-	color: #6f92a7;
-}
-
-:focus {
-	outline: 0;
-}
-
-h1, h2, h3 {
-	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
-	font-weight: normal;
-} 
-
-h2 {
-	font-size: 22px;
-	line-height: 28px;
-}
-
-.float {
-		float:left;
-	}
+/* Main CSS Sheet */
 
 body {
 	background: url(../images/bg.png);
-	font-family : "Trebuchet MS", "Helvetica Neue", Helvetica, Arial, sans-serif;
-	font-size: 12px;
 }	
