@@ -1,5 +1,6 @@
 body {
-	background-color: #e5ffff;
+  background-image: url("../ticks.png");
+  background-repeat: repeat;
 	font-weight: normal;
 	font-style: normal;
 }
